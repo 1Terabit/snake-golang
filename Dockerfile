@@ -1,8 +1,8 @@
 FROM golang:alpine
 ENV LANG en_US.UTF-8
 
-COPY . /go/src/github.com/anthwam/snake-golang/snake
-WORKDIR /go/src/github.com/anthwam/snake-golang/snake
+COPY . /go/src/github.com/anthwam/snake-golang
+WORKDIR /go/src/github.com/anthwam/snake-golang
 
 RUN apk add --no-cache git
 RUN go get ./
