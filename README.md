@@ -14,7 +14,7 @@ snake game in Golang
 
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/anthwam/" target="_blank"><img alt="LinkedIn" src="https://i.ibb.co/qgR3LV0/1-OK04-EZr7-D6zn-LHi-H2-XJyn-A.png" /></a>
+<a><img alt="Cobra" src="https://i.ibb.co/qgR3LV0/1-OK04-EZr7-D6zn-LHi-H2-XJyn-A.png" /></a>
 </p>
 
 </br>
@@ -25,7 +25,7 @@ snake game in Golang
 </h2>
 
 <h1 align='center'>
-  <img src="https://i.ibb.co/j9C1NKZ/carbon-2.png">
+  <img src="./img/carbon%20(2).png">
     <p align='center'>
 </p>
 
@@ -38,6 +38,6 @@ snake game in Golang
 </h2>
 
 <h1 align='center'>
-  <img src="https://i.ibb.co/g36GV77/carbon-3.png">
+  <img src="./img/carbon%20(3).png">
     <p align='center'>
 </p>
