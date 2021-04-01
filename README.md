@@ -1,5 +1,5 @@
 <h1 align='center'>
-    ¡Hello there  <img src="https://i.ibb.co/t4vsdRG/icons8-snake-48.png" width="30"> Instructions for the
+    ¡Hello there!  <img src="https://i.ibb.co/t4vsdRG/icons8-snake-48.png" width="30"> Instructions for the
 snake game in Golang
     <p align='center'>
 </p>
