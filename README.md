@@ -21,20 +21,40 @@ snake game in Golang
 
 <h2 align='center'>
     <b> Locally </b>
-    
-
-
-![alt text](./img/carbon%20(2).png)
 </h2>
+
+<p align='center'>
+
+    $ go get github.com/DyegoCosta/snake-game
+
+    $ $GOPATH/bin/snake-game
+</p>
 
 </br>
 
 <h2 align='center'>
     <b> Docker </b>
-    
-
-
-
-![alt text](./img/carbon%20(3).png)
 </h2>
+
+<p align='center'>
+
+    $ docker run -ti dyego/snake-game
+
+</p>
+
+</br>
+
+<h2 align='center'>
+    <b> Docker </b>
+</h2>
+
+<p align='center'>
+
+    $ cd $GOPATH/src/github.com/DyegoCosta/snake-game
+
+    $ make
+
+</p>
+
+
 
