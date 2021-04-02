@@ -22,12 +22,10 @@ snake game in Golang
 <h2 align='center'>
     <b> Locally </b>
     
-</h2>
 
-<h1 align='center'>
-  <img src="./img/carbon%20(2).png">
-    <p align='center'>
-</p>
+
+![alt text](./img/carbon%20(2).png)
+</h2>
 
 </br>
 
@@ -35,9 +33,8 @@ snake game in Golang
     <b> Docker </b>
     
 
+
+
+![alt text](./img/carbon%20(3).png)
 </h2>
 
-<h1 align='center'>
-  <img src="./img/carbon%20(3).png">
-    <p align='center'>
-</p>
