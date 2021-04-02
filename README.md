@@ -45,7 +45,7 @@ snake game in Golang
 </br>
 
 <h2 align='center'>
-    <b> Docker </b>
+    <b> Testing </b>
 </h2>
 
 <p align='center'>
