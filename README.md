@@ -56,5 +56,28 @@ snake game in Golang
 
 </p>
 
+</br>
 
+<h3 align='center'>
+    <b> Solution development time ⌚ </b>
+</h3>
 
+<p align='center'>
+    <a> 5 days </a>
+</p>
+
+</br>
+
+<h3 align='center'>
+    <b> Game instructions 🎮 </b>
+</h3>
+
+<p align='center'>
+    <ul align='center'>
+        <li>    go up ⬆️ </li>
+        <li>    go down ⬇️</li>
+        <li>   right ➡️</li>
+        <li> left ⬅️ </li>
+        <li>    exit and restart the game <b>[ESC]</li>
+    </ul>
+</p>

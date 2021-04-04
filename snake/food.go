@@ -30,7 +30,7 @@ func getFoodEmoji() rune {
 
 func randomFoodEmoji() rune {
 	f := []rune{
-		'🍒'
+		'🍒',
 	}
 
 	return f[rand.Intn(len(f))]
